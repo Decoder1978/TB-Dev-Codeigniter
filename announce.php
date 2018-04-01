@@ -9,7 +9,7 @@ define ('UC_VIP', 2);
 // DB setup
 $TBDEV['mysql_host'] = "localhost";
 $TBDEV['mysql_user'] = "root";
-$TBDEV['mysql_pass'] = "*igpeLaF";
+$TBDEV['mysql_pass'] = "PASSWORD";
 $TBDEV['mysql_db']   = "torrentempire";
 ////////////////// GLOBAL VARIABLES ////////////////////////////
 
