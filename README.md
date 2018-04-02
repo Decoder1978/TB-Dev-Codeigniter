@@ -8,9 +8,13 @@ This is a working project, i diden do anything to the source for more then 4 yea
 
 A working example can found here: http://torrent-empire.org
 
+username: demo@live.nl
+password: demo1234
+
 Install: if you know Codeigniter then you know what to do
 
 Edit application/config/config.php
+
 Edit application/config/database.php
 
 
